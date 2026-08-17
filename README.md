@@ -26,4 +26,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
