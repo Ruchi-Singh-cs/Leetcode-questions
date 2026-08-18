@@ -8,6 +8,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0203-remove-linked-list-elements) |
