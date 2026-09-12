@@ -38,4 +38,13 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
+## Array
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
