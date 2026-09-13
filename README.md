@@ -49,6 +49,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [3870-count-commas-in-range](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/3870-count-commas-in-range) |
 ## Design
 |  |
 | ------- |
