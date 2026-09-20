@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0520-detect-capital) |
+| [0796-rotate-string](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0796-rotate-string) |
 ## Stack
 |  |
 | ------- |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
