@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0520-detect-capital](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0796-rotate-string) |
 ## Stack
