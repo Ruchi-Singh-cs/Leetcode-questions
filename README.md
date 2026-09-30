@@ -37,6 +37,7 @@
 | [0205-isomorphic-strings](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0520-detect-capital](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0796-rotate-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Stack
 |  |
 | ------- |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0796-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
