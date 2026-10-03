@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
@@ -70,10 +71,19 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
