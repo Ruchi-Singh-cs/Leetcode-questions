@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
 | ------- |
@@ -70,4 +71,9 @@
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
