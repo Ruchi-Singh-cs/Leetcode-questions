@@ -22,6 +22,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
@@ -50,6 +51,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0268-missing-number) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3870-count-commas-in-range](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/3870-count-commas-in-range) |
 ## Design
@@ -87,10 +90,19 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
