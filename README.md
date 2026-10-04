@@ -49,6 +49,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Dynamic Programming
@@ -82,8 +84,10 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
