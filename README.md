@@ -27,6 +27,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0143-reorder-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -49,6 +50,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0268-missing-number) |
@@ -104,5 +106,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Ruchi-Singh-cs/Leetcode-questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
